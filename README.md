@@ -20,3 +20,6 @@ PC (Windows/Mac) : Version standard avec clavier/souris.
 Casques VR (Optionnel) : Compatible avec Oculus Rift/Quest (via Link) et HTC Vive pour une immersion totale.
 
 Controles classqiques pc : Z S Q D
+
+Comment essayer l'expérience 
+utilisez ce lien : https://framevr.io/projet-epsi-lille
