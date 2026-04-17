@@ -1,8 +1,8 @@
 # projet-RV
-⛩️ Echoes of the Sanctuary (Échos du Sanctuaire)
+Echoes of the Sanctuary (Échos du Sanctuaire)
 Bienvenue dans Echoes of the Sanctuary, une micro-expérience immersive située dans le Japon médiéval. Ce projet explore l'interaction de proximité et la narration environnementale à travers des déclencheurs sonores et textuels.
 
-📜 Description de l'expérience
+Description de l'expérience
 Plongez au cœur d'un sanctuaire shinto oublié. L'atmosphère est calme, mais les vestiges du passé parlent à ceux qui s'en approchent. Le projet met en scène trois points d'intérêt interactifs :
 
 La Statue du Sanctuaire : En vous approchant de la divinité de pierre, vous entendrez des murmures ancestraux ou des chants sacrés.
